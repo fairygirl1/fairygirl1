@@ -15,7 +15,7 @@
 <a href="https://www.djangoproject.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.qt.io/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="" height="40" width="50" /></a>
-<a href="https://html5.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://html5.org/"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.docker.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" /></a>
   
 </p>
