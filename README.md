@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
-<a href="https://www.python.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.python.org/"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="" height="40" width="50" /></a>
 <a href="https://opensource.com/article/19/10/programming-bash-syntax-tools"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.djangoproject.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="50" /></a>
